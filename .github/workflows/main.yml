@@ -1,32 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@joetamsf
-joetamsf /
-workflow_demo
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-workflow_demo/.github/workflows/main.yml
-@joetamsf
-joetamsf Create main.yml
-Latest commit fd807cb 28 seconds ago
-History
-1 contributor
-58 lines (48 sloc) 1.76 KB
 name: Nucamp Tutorials App Pipeline
 
 # Set up how the workflow is triggered
