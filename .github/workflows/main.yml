@@ -19,7 +19,7 @@ jobs:
   just-say-hi:
     runs-on: ubuntu-latest
     steps:
-      - name: say hi
+      - uses: actions/checkout@v2
       - run: echo "hello"
       
   # This workflow contains a single job that we are calling "build-and-test"
