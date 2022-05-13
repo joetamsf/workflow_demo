@@ -16,6 +16,12 @@ on:
 
 # Set up the job for this workflow
 jobs:
+  just-say-hi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: say hi
+      - run: echo "hello"
+      
   # This workflow contains a single job that we are calling "build-and-test"
   build-and-test:
 
